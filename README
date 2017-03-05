@@ -1,0 +1,9 @@
+# Install
+
+https://concourse.ci/docker-repository.html
+
+# Launch
+
+```bash
+docker-compose up
+```
