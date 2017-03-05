@@ -1,6 +1,6 @@
 # Install
 
-https://concourse.ci/docker-repository.html
+See https://concourse.ci/docker-repository.html
 
 # Launch
 
